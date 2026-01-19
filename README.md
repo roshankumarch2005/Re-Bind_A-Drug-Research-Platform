@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/-NVIDIA_NIM-black?style=for-the-badge&logoColor=white&logo=nvidia&color=76B900" alt="nvidia-neMo" />
   </div>
 
-  <h3 align="center">ProteinBind</h3>
+  <h3 align="center">Re-Bind</h3>
 
    <div align="center">
      Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@albertmends" target="_blank"><b>Your YouTube Channel</b></a>. Join the community!
@@ -76,8 +76,8 @@ Make sure you have the following installed on your machine:
 ### **Cloning the Repository**
 
 ```bash
-git clone https://github.com/mendsalbert/ProteinBind.git
-cd proteinbind
+git clone https://github.com/roshankumarch2005/Re-Bind_A-Drug-Research-Platform.git
+cd ReBind
 ```
 
 ### **Installation**
