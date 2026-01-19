@@ -6,14 +6,14 @@ import CTACard from "./components/CTACard";
 import { AtomIcon, MessageCircle, Network, SearchIcon } from "lucide-react";
 
 const DashboardCardMap = dynamic(
-  () => import("@/components/dash-temp/components/DashboardCardMap"),
+  () => import("@/components/Dashboard/components/DashboardCardMap"),
   {
     ssr: false,
   },
 );
 
 const DashboardCardChat = dynamic(
-  () => import("@/components/dash-temp/components/DashboardCardChat"),
+  () => import("@/components/Dashboard/components/DashboardCardChat"),
   {
     ssr: false,
   },
