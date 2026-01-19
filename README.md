@@ -14,7 +14,7 @@
   <h3 align="center">Re-Bind</h3>
 
    <div align="center">
-     LIVE URL <a href="https://re-bind-a-drug-research-platform-xk.vercel.app/auth-page/signin" target="_blank"><b>Your YouTube Channel</b></a>. 
+     LIVE URL <a href="https://re-bind-a-drug-research-platform-xk.vercel.app/auth-page/signin" target="_blank"><b>Re-Bind</b></a>. 
     </div>
 </div>
 
